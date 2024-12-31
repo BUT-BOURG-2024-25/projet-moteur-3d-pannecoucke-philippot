@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/EasyRun.unity
+    guid: 50f3af7366e1c3341a0d83cd6949cb5f
   m_configObjects: {}
