@@ -2,3 +2,5 @@
 ### Nom des étudiants du groupe :
 - **Yannis Philippot**
 - **Clément Pannecoucke**
+
+Vous pourrez retrouvez un dossier APK et un dossier VideoExemple afin de voir le résultat de l'application.
